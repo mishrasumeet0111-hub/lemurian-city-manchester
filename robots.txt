@@ -1,4 +1,2 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://manchester.lemurianstudios.com/sitemap.xml
